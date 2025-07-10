@@ -1,4 +1,4 @@
-# DataAnalystPortfolioProject_PBI_SQL_Python_MarketingAnalytics
+
 # Marketing Analytics Project – XYZ Company
 
 This is a complete marketing analytics project designed to assess and improve the performance of digital marketing campaigns for a fictional retail client, XYZ Company.
